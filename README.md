@@ -2,6 +2,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=william0228&theme=dark&background=000000)](https://git.io/streak-stats)
 
+![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=william0228&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=william0228&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **william0228/william0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
