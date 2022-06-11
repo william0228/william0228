@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=william0228&style=flat-square&color=blue" alt=""/>
 
 My name is William(Song-Yun) Wang.
 <!-- This is ny personal website() -->
